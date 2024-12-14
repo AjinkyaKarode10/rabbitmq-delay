@@ -4,6 +4,7 @@ This project provides an API for onboarding users and interacts with a RabbitMQ 
 
 ## Prerequisites
 
+- Java 17
 - Docker
 - Docker Compose
 
